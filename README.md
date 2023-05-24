@@ -7,3 +7,5 @@ Cotizador de criptomonedas hecho en REACT haciendo uso de API, puede escoger su 
 * Fetch
 * Components
 * Spinners
+
+<img width="1260" alt="image" src="https://github.com/yaribdiaz/cotizar_criptomonedas_react/assets/125238012/ec2df44a-623f-4625-ac13-175123a69046">
